@@ -358,9 +358,9 @@ def Serial_Info(params):
     soup = BeautifulSoup(html, fromEncoding="windows-1251")
 
     # -- check if serial has seasons and provide season list
-    if par.is_season == '' and len(soup.findAll('div', {'class':'full-news-2-content'})) > 0:
+    if par.is_season == '' and len(soup.findAll('div', {'class':'svtabr'})) > 0:
         #-- generate list of seasons
-        for rec in soup.find('div', {'class':'full-news-2-content'}).findAll('a'):
+        for rec in soup.find('div', {'class':'svtabr_wrap show seasonlist'}).findAll('a'):
             s_url   = ('http://seasonvar.ru'+rec['href']).encode('utf-8')
             s_name  = rec.text.replace('>>>', '').replace(u'Сериал ', '')
             if s_name.find(u'сезон(') > -1:
