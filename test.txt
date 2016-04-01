@@ -1,0 +1,38 @@
+
+<ul class="svPlayBtn">
+    <li class="svPlayBtn-addMark"><span class="pauseSeria" idseas="4923">Отметка на серии</span></li>
+    <li class="svPlayBtn-addMarkTime"><span class="pauseTime" idseas="4923">Отметка на моменте</span></li>
+    <li class="svPlayBtn-wantSee"><span data-pg-s="wantsee">Хочу посмотреть</span></li>
+    <li class="svPlayBtn-htmlPlay addWantSee act"><span class="flashplay" idseas="4923" style="display: none; ">HTML5</span><span class="html5play" idseas="4923">HTML5</span></li>
+</ul>
+                <div id="vpcenter"></div>
+                <div id="videoplayer719">
+       <object type="application/x-shockwave-flash" data="http://datalock.ru/151c6fa40a458024785fdf534cf404e28/v1.9.3.swf?microstime=1451140122" width="724" height="593" id="flashPlayer" style="visibility: visible; "><param name="wmode" value="window"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="id" value="flashPlayer"><param name="flashvars" value="m=video&amp;st=/uppod/m/st.29.10.2014UTF.txt&amp;pl=8DGe76RezcwW9Z0HOvEbpyQD7ZlR9yth93mR9cGR9B7n9ymZpy2UpvEb8DlT7vnc8cgn9j9W4BRct=nb4vIC&amp;uid=flashPlayer"></object>
+       
+       
+       
+    
+                    
+        </div>
+                <div id="errorPlayer" style="text-align: center; height: 300px; static;background:black;color:#fff;font-size:15px;font-weight:bold;padding-top:290px; display: none;">ошибка при загрузке плеера, попробуйте перезагрузить страницу</div>
+                
+                <div id="player_msoc" style="">
+                    <div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="none" data-yasharequickservices="vkontakte,facebook,twitter,odnoklassniki,moimir"><span class="b-share"><a rel="nofollow" target="_blank" title="ВКонтакте" class="b-share__handle b-share__link b-share-btn__vkontakte" href="https://share.yandex.net/go.xml?service=vkontakte&amp;url=http%3A%2F%2Fseasonvar.ru%2Fserial-4923-hakKorni.html&amp;title=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20.%D1%85%D0%B0%D0%BA%20%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%20.hack%20Roots%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!" data-service="vkontakte"><span class="b-share-icon b-share-icon_vkontakte"></span></a><a rel="nofollow" target="_blank" title="Facebook" class="b-share__handle b-share__link b-share-btn__facebook" href="https://share.yandex.net/go.xml?service=facebook&amp;url=http%3A%2F%2Fseasonvar.ru%2Fserial-4923-hakKorni.html&amp;title=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20.%D1%85%D0%B0%D0%BA%20%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%20.hack%20Roots%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!" data-service="facebook"><span class="b-share-icon b-share-icon_facebook"></span></a><a rel="nofollow" target="_blank" title="Twitter" class="b-share__handle b-share__link b-share-btn__twitter" href="https://share.yandex.net/go.xml?service=twitter&amp;url=http%3A%2F%2Fseasonvar.ru%2Fserial-4923-hakKorni.html&amp;title=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20.%D1%85%D0%B0%D0%BA%20%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%20.hack%20Roots%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!" data-service="twitter"><span class="b-share-icon b-share-icon_twitter"></span></a><a rel="nofollow" target="_blank" title="Одноклассники" class="b-share__handle b-share__link b-share-btn__odnoklassniki" href="https://share.yandex.net/go.xml?service=odnoklassniki&amp;url=http%3A%2F%2Fseasonvar.ru%2Fserial-4923-hakKorni.html&amp;title=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20.%D1%85%D0%B0%D0%BA%20%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%20.hack%20Roots%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!" data-service="odnoklassniki"><span class="b-share-icon b-share-icon_odnoklassniki"></span></a><a rel="nofollow" target="_blank" title="Мой Мир" class="b-share__handle b-share__link b-share-btn__moimir" href="https://share.yandex.net/go.xml?service=moimir&amp;url=http%3A%2F%2Fseasonvar.ru%2Fserial-4923-hakKorni.html&amp;title=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20.%D1%85%D0%B0%D0%BA%20%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%20.hack%20Roots%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!" data-service="moimir"><span class="b-share-icon b-share-icon_moimir"></span></a></span></div>
+                    <script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8" async=""></script>
+                </div>
+                <div id="confirmHd">
+                    <div id="messageContent" class="message">
+                        <div class="confirmHD-txt">
+                            HD качество доступно только для зарегистрированных пользователей с премиум аккаунтом
+                        </div>
+                        <span id="butonOkHD">X</span>
+                        <a href="http://seasonvar.ru/premium" target="_blank" id="butonPremHD">Купить премиум</a>
+                    </div>
+                </div>
+                <script>
+                    $confirmhd = $("#confirmHd");
+                    function showHd(){$confirmhd.toggle();};
+                    $("#butonOkHD").on("click",function(){$confirmhd.toggle();});
+                </script>
+
+    

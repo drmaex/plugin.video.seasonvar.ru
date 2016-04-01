@@ -291,13 +291,13 @@ def Movie_List(params):
 
         if par.alphabet == '':
             count = 0
-            for rec in soup.findAll('div', {'class':'alf-letter'}):
+            for rec in soup.findAll('div', {'class':'alf-letter hideLetter'}):
                 a_name = u'[COLOR FF00FFF0][B]' +rec.text+u'[/B][/COLOR] сериалов: '+str(len(rec.parent.findAll('div', {'class':mtag})))
                 list.append({'title'    : a_name.encode('utf-8'),
                              'alphabet' : rec.text.encode('utf-8')})
                 count = count+len(rec.parent.findAll('div', {'class':mtag}))
         else:
-            for reca in soup.findAll('div', {'class':'alf-letter'}):
+            for reca in soup.findAll('div', {'class':'alf-letter hideLetter'}):
                 if reca.text.encode('utf-8') == par.alphabet:
                     for rec in reca.parent.findAll('div', {'class':mtag}):
                         list.append({'url'   : 'http://seasonvar.ru'+rec.find('a')['href'].encode('utf-8'),
@@ -513,7 +513,7 @@ def Genre_List(params):
     # -- parsing web page ------------------------------------------------------
     soup = BeautifulSoup(html, fromEncoding="windows-1251")
 
-    for rec in soup.find('select', {'id':'chkonlyjanr'}).findAll('option'):
+    for rec in soup.find('select', {'class':'selg'}).findAll('option'):
         par.genre       = rec['value']
         par.genre_name  = rec.text.capitalize().encode('utf-8')
 
@@ -541,7 +541,7 @@ def Country_List(params):
     # -- parsing web page ------------------------------------------------------
     soup = BeautifulSoup(html, fromEncoding="windows-1251")
 
-    for rec in soup.find('select', {'id':'chkonlycountry'}).findAll('option'):
+    for rec in soup.find('select', {'class':'selc'}).findAll('option'):
         par.country       = rec['value']
         par.country_name  = rec.text.capitalize().encode('utf-8')
 
@@ -550,7 +550,7 @@ def Country_List(params):
         #-- filter parameters
         u += '&genre=%s'%urllib.quote_plus(par.genre)
         u += '&genre_name=%s'%urllib.quote_plus(par.genre_name)
-        u += '&country=%s'%urllib.quote_plus(par.country)
+        #u += '&country=%s'%urllib.quote_plus(par.country)
         u += '&country_name=%s'%urllib.quote_plus(par.country_name)
         u += '&alphabet=%s'%urllib.quote_plus(par.alphabet)
         xbmcplugin.addDirectoryItem(h, u, i, True)
